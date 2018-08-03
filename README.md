@@ -24,5 +24,4 @@
 > #### 1. RXTXcomm.jar - (LGPL v2.1 + Linking Over Controlled Interface)
 
 #### 참고(Reference)
-Link: [Download - Rxtx], [Download STS], "http://rxtx.qbang.org/wiki/index.php/Download", QBang
 Link: [Android Developers], [Android Developer], "https://developer.android.com/samples/", Android Developer
