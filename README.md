@@ -5,7 +5,6 @@
 > ##### 2. Created by: 2017-12-30
 > ##### 3. Description: 
 > ###### 3-1. Support for Android 6.1 environment
-> ###### 3-2. 
 > ##### 4. License: GNU General Public License, version 3
 
 #### 개요(Overview)
