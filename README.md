@@ -29,4 +29,6 @@ Link: [Download Android Studio and SDK tools &nbsp;|&nbsp; Android Developers], 
 
 Link: [Content License  |  Android Developers], [Android Developers], https://developer.android.com/license, Android Studio
 
-Link:
+Link: [Java SE - Downloads | Oracle Technology Network | Oracle], [Oracle], http://www.oracle.com/technetwork/java/javase/downloads/index.html, Oracle Corporation
+
+Link: [Java SE Licensing Information User Manual], [Oracle], http://www.oracle.com/technetwork/java/javase/documentation/java-se-lium-2018-03-19-4421425.pdf, Oracle Corporation
