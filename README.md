@@ -16,11 +16,17 @@
 > ##### 1. Invoke the project in an Eclipse environment.
 
 #### 개발환경(Development environment)
-> ##### 1. Java(JDK)
-> ##### 2. Eclipse Neon
+> ##### 1. Android Studio (GPL v2)
+> ##### 2. Java(JDK)
 
 #### 라이브러리(Library)
 > #### 1. RXTXcomm.jar - (LGPL v2.1 + Linking Over Controlled Interface)
 
 #### 참고(Reference)
-Link: [Android Developers], [Android Developer], "https://developer.android.com/samples/", Android Developer
+Link: [Android Developers], [Android Developers], "https://developer.android.com/samples/", Android Developer
+
+Link: [Download Android Studio and SDK tools &nbsp;|&nbsp; Android Developers], [Android Studio], https://developer.android.com/studio/", Android Studio
+
+Link: [Content License  |  Android Developers], [Android Developers], https://developer.android.com/license, Android Studio
+
+Link:
